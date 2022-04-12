@@ -1,7 +1,10 @@
 <div>
    <h1>É UM PRAZER SUA PRESENÇA!</h1>
 </div>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-bittencourt&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div> 
 <div style="display: inline_block;"><br>
 <div>
  <p>Linguagens mais usadas:</p>
